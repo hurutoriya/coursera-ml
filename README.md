@@ -27,6 +27,7 @@ $ pip3 install octave_kernel
 2018/01/12 02:16 week3 programming end
 2018/01/18 01:43 week4 programming end
 2018/01/23 23:50 week5 programming end
+2018/02/13 13:50 week6 programming end
 ```
 
 ## Author
